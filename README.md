@@ -4,47 +4,31 @@
 <p>Desenvolvido para ajudar outros devs na agilidade de seu código Typescript / NodeJs.</p>
 <p>É muito simples de utilizar, basta clonar o projeto e instalar as dependências:</p>
 
-<code>
-  <p>
-    // Install  <br />
+```javascript
+  // Install 
     npm i
-  </p>
 
-  <p>
-    // Run Dev <br />
+  // Run Dev 
     npm run start:dev
-  </p>
 
-  <p>
-    // Run Build <br />
+  // Run Build 
     npm run build
-  </p>
 
-  <p>
-    // Run Prod <br />
+  // Run Prod 
     npm run start
-  </p>
 
-  <p>
-    // Run Prettier <br />
+  // Run Prettier 
     npm run prettier
-  </p>
 
-  <p>
-    // Run Eslint <br />
+  // Run Eslint 
     npm run eslint
-  </p>
 
-  <p>
-    // Run Jest ( test ) <br />
+  // Run Jest ( test ) 
     npm run jest
-  </p>
 
-  <p>
-    // Run Jest ( test CI ) <br />
+  // Run Jest ( test CI ) 
     npm run jest:ci
-  </p>
-</code>
+```
 
 ---
 
